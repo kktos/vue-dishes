@@ -1,0 +1,12 @@
+.card {
+	min-height: 400px;
+	max-width: 250px;
+	width: 250px;
+	transition: background 0.3s;
+  }
+  .card-clickable {
+	cursor: pointer;
+  }
+  .card-clickable:hover {
+	background: #bdbdbd !important;
+  }

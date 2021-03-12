@@ -1,0 +1,14 @@
+
+
+.card .q-img {
+  max-height: 180px;
+}
+.card .q-img__image {
+  background-size: cover !important;
+}
+.card .q-rating__icon {
+  opacity: 0.2;
+}
+.card .q-rating__icon--active {
+  opacity: 1;
+}
